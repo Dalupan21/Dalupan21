@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Dalupan21
 - 👀 I’m interested in Hackings
 - 🌱 I’m currently learning To Hack
-- 💞️ I’m looking to collaborate on my learninga
-- 📫 How to reach me just contact neK
+- 💞️ I’m looking to collaborate on my learnings
+- 📫 How to reach me just contact me
+
 
 <!---
 Dalupan21/Dalupan21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
